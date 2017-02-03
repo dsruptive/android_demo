@@ -1,6 +1,7 @@
 # NTAGI2CDemo
-Android App
+Demo Android App by NXP
 
+in this app you can program and read all the features for ntag i2c chip
 
 ## Documentation android
 
